@@ -21,6 +21,7 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
 | :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
 | :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://x.com/lundukejournal/status/2032951803134837237) |
+| :no_entry: | **Open Mandriva Linux** | [Developer Statement]([https://x.com/lundukejournal/status/2032951803134837237](https://forum.openmandriva.org/t/systemd-adds-age-verification-are-you-serious/8793/50?u=mordechai)) |
 
 ### Operating Systems Planning to Implement Age Verification
 
@@ -32,6 +33,7 @@ The developers or publishers of these Open Source Operating Systems have made pl
 | :building_construction: | **Pop!_OS** | [System76 Statement opposing, but planning to implement](https://blog.system76.com/post/system76-on-age-verification) |
 | :building_construction: | **elementary OS** | [Founder Statement planning to implement](https://mastodon.social/@danirabbit@mastodon.online/116250766314705297) |
 | :building_construction: | **Midnight BSD** | [License temporarily forbids usage in Brazil, California](https://github.com/MidnightBSD/src?tab=License-1-ov-file), [until implementation finished](https://x.com/midnightbsd/status/2030992394703732872) |
+| :building_construction: | **Whonix Linux** | [Founder statement - plans full implementation](https://forums.whonix.org/t/whonix-adding-age-verification/22969)
 
 ### Operating Systems Which Have Already Implemented Age Verification
 
