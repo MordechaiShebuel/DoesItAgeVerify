@@ -95,6 +95,8 @@ Both major mobile OS vendors have already shipped age verification APIs at the O
 | :no_entry: | **GrapheneOS** | [Developer statement](https://x.com/GrapheneOS/status/2034957604682621229) |
 
 ### Mobile Operating Systems With Ongoing Discussions (No Decision Yet)
+
+| &nbsp; | Operating System | Notes |
 | - | - | - |
 | :speech_balloon: | **Murena/E/OS** | Current statement looks like they will implement it, when asked how they can still claim to be for user privacy there was no response. [Developer statement](https://community.e.foundation/t/uk-government-voting-on-age-verification-for-vpn-users/78533/26) |
 
