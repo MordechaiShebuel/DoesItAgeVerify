@@ -21,6 +21,7 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | [**Ageless Linux**](https://agelesslinux.org/) | [Debian fork created to protest Age Verification](https://x.com/lundukejournal/status/2032951803134837237) |
 | :no_entry: | [**Vendefoul Wolf Linux**](https://vendefoul-wolf-linux.sourceforge.io/index_en.html) | [Developer statement](https://x.com/vendefoulwolf/status/2035298946554180032) |
 | :no_entry: | [**Adenix GNU/Linux**](https://www.adenixgnulinux.org/) | [Developer statement opposing age verification](https://www.adenixgnulinux.org/) — founder also posted to the [Debian debian-legal mailing list](https://lists.debian.org/debian-legal/2026/03/msg00022.html) requesting mechanisms to remove age verification packages and blacklist affected regions; raises constitutional and free speech concerns |
+| :no_entry: | [**Zorin Linux**](https://help.zorin.com/) | Emphatically refuses to implement [Developer statement](https://x.com/Techjunkie_Aman/status/2038903722399711315) |
 
 ### Operating Systems Planning to Implement Age Verification
 
